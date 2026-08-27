@@ -1,5 +1,5 @@
 # Kmart-Sales-Dashboard
-This is an interactive Sales Performance Dashboard in MS Excel to analyse Kmart Sales performance across different years, states, suburbs, product categories and sales channels. Synthetic sales data has been used here
+
 
 <img width="552" height="331" alt="image" src="https://github.com/user-attachments/assets/eb1372b7-1fe6-4fa0-91fc-6a572b99756e" />
 
